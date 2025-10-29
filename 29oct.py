@@ -8,8 +8,8 @@
 
 """
 
-a=10
-b=100
+# a=10
+# b=100
 # print("sum is  :",a+b)
 # print("difference is :",a-b)
 # print("product is :",a*b)
@@ -22,4 +22,19 @@ b=100
 # print(a>=b)
 # print(a<=b)
 # print(a==b)
-print(a!=b)
+# print(a!=b)
+
+a=10 
+b=20 
+
+# print(a>b and a!=b)  # and both condition will satisfy
+# print(a>b or a!=b)  # or any one condition will satisfy
+
+# a=a +b 
+"""a+=b  # a-=b  a/=b a*=b a%=b
+print(a)
+"""
+l1 =[1,2,3,4,5]
+
+print(3 in l1)
+print(1 not in l1)
