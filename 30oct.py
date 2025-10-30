@@ -73,6 +73,7 @@ else :
 # task  :1 
 """
 ask user  to enter the  number and check it is divisible by 5 or 11 or  both . 
+
 """
 
 # task :2 
