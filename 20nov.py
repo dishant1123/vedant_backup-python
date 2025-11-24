@@ -1,6 +1,6 @@
 # match  : 
 
-a=int(input("enter the  number  : "))
+"""a=int(input("enter the  number  : "))
 b=int(input("enter the  number  : "))
 
 print("1. addition")
@@ -27,4 +27,13 @@ match choice :
         print("floor division of  two number is :",a//b)
     case _ :
         print("invalid choice")
-        
+"""
+#
+"""
+ch=input("enter the character : ")
+match ch :
+    case 'a' | 'e' | 'i' | 'o' | 'u' :
+        print("vowel")
+    case _ :
+        print("consonant")
+"""
